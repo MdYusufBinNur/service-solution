@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "services": "Tjenester",
+    "about": "Om Os",
+    "booking": "Book Tid",
+    "contact": "Kontakt"
+  },
+  "topBar": {
+    "phone": "Ring til os",
+    "email": "Send os en email",
+    "hours": "Man-Fre: 08:00 - 17:00"
+  },
+  "hero": {
+    "title": "Erfaring du kan stole på",
+    "subtitle": "Professionel bilservice og reparation siden 1995",
+    "cta": "Book tid online",
+    "discount": "10% rabat ved online booking"
+  },
+  "services": {
+    "title": "Vores Tjenester",
+    "subtitle": "Alt til din bil under ét tag",
+    "viewAll": "Se alle tjenester",
+    "bookNow": "Book nu",
+    "items": {
+      "service": {
+        "title": "Service & Eftersyn",
+        "description": "Komplet service og eftersyn af din bil med certificerede mekanikere"
+      },
+      "repair": {
+        "title": "Reparation",
+        "description": "Professionel reparation af motor, bremser, og alle bilens dele"
+      },
+      "tires": {
+        "title": "Dæk & Fælge",
+        "description": "Dækskift, opbevaring og salg af kvalitetsdæk"
+      },
+      "electrical": {
+        "title": "Elektrisk Service",
+        "description": "Diagnose og reparation af elektriske systemer"
+      },
+      "ac": {
+        "title": "Aircondition",
+        "description": "Service og påfyldning af aircondition anlæg"
+      },
+      "inspection": {
+        "title": "Syn & Eftersyn",
+        "description": "Klargøring til syn og periodisk eftersyn"
+      }
+    }
+  },
+  "about": {
+    "title": "Om Service",
+    "subtitle": "Din pålidelige partner siden 1995",
+    "description": "Med over 25 års erfaring er vi en af de mest betroede bilværksteder i området. Vores certificerede mekanikere sikrer den højeste kvalitet i hver eneste opgave.",
+    "experience": "25+ års erfaring",
+    "customers": "5000+ tilfredse kunder",
+    "quality": "Kun originale dele",
+    "warranty": "12 måneders garanti"
+  },
+  "testimonials": {
+    "title": "Hvad Siger Vores Kunder",
+    "subtitle": "Tillid bygget på kvalitet og service"
+  },
+  "cta": {
+    "title": "Klar til at booke din næste service?",
+    "subtitle": "Book online i dag og få 10% rabat",
+    "button": "Book tid nu"
+  },
+  "footer": {
+    "about": "Om Os",
+    "aboutText": "Service har leveret førsteklasses bilservice siden 1995. Vi er dedikerede til at give dig den bedste service.",
+    "quickLinks": "Hurtige Links",
+    "services": "Tjenester",
+    "contact": "Kontakt Information",
+    "address": "Adresse",
+    "addressText": "411 R/A, Agrabad, Chattogram",
+    "openingHours": "Åbningstider",
+    "mondayFriday": "Mandag - Fredag",
+    "saturday": "Lørdag",
+    "sunday": "Søndag",
+    "closed": "Lukket",
+    "followUs": "Følg Os",
+    "rights": "Alle rettigheder forbeholdes"
+  },
+  "booking": {
+    "title": "Book Tid Online",
+    "subtitle": "Udfyld formularen og få 10% rabat på din service",
+    "form": {
+      "name": "Dit Navn",
+      "phone": "Telefonnummer",
+      "email": "Email",
+      "carBrand": "Bilmærke",
+      "carModel": "Bilmodel",
+      "service": "Vælg Service",
+      "date": "Foretrukken Dato",
+      "message": "Besked (valgfri)",
+      "submit": "Send Booking",
+      "success": "Din booking er modtaget! Vi kontakter dig snart.",
+      "error": "Der opstod en fejl. Prøv venligst igen."
+    }
+  },
+  "contact": {
+    "title": "Kontakt Os",
+    "subtitle": "Vi er her for at hjælpe dig",
+    "getInTouch": "Kom i Kontakt",
+    "description": "Har du spørgsmål? Kontakt os i dag, og lad os hjælpe dig med din bil.",
+    "visitUs": "Besøg Os",
+    "form": {
+      "name": "Dit Navn",
+      "email": "Email",
+      "subject": "Emne",
+      "message": "Besked",
+      "submit": "Send Besked",
+      "success": "Din besked er sendt!",
+      "error": "Der opstod en fejl. Prøv venligst igen."
+    }
+  },
+  "aboutPage": {
+    "title": "Om Service",
+    "subtitle": "Din pålidelige bilpartner siden 1995",
+    "mission": {
+      "title": "Vores Mission",
+      "description": "At levere den højeste kvalitet i bilservice med fokus på kundetilfredshed, pålidelighed og ekspertise."
+    },
+    "values": {
+      "title": "Vores Værdier",
+      "quality": "Kvalitet",
+      "qualityDesc": "Vi kompromitterer aldrig på kvalitet",
+      "trust": "Tillid",
+      "trustDesc": "Ærlighed og transparens i alt vi gør",
+      "expertise": "Ekspertise",
+      "expertiseDesc": "Certificerede mekanikere med års erfaring",
+      "service": "Service",
+      "serviceDesc": "Kundetilfredshed er vores prioritet"
+    },
+    "story": {
+      "title": "Vores Historie",
+      "content": "Vores firma blev etableret i 1995 med et engagement i at levere pålidelige bilservices. Gennem årene har vi opbygget et ry for excellence i bilvedligeholdelse og reparation. Vores dygtige teknikere bruger moderne udstyr og teknikker til at levere resultater af højeste kvalitet."
+    },
+    "team": {
+      "title": "Mød Vores Team",
+      "description": "Vores erfarne team er dedikeret til at levere exceptionel service"
+    }
+  },
+  "notFound": {
+    "title": "Side ikke fundet",
+    "description": "Beklager, den side du leder efter eksisterer ikke.",
+    "button": "Tilbage til forsiden"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "booking": "Book Appointment",
+    "contact": "Contact"
+  },
+  "topBar": {
+    "phone": "Call us",
+    "email": "Email us",
+    "hours": "Mon-Fri: 08:00 - 17:00"
+  },
+  "hero": {
+    "title": "Experience You Can Trust",
+    "subtitle": "Professional car service and repair since 1995",
+    "cta": "Book online",
+    "discount": "10% discount for online booking"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Everything for your car under one roof",
+    "viewAll": "View all services",
+    "bookNow": "Book now",
+    "items": {
+      "service": {
+        "title": "Service & Inspection",
+        "description": "Complete service and inspection of your car with certified mechanics"
+      },
+      "repair": {
+        "title": "Repair",
+        "description": "Professional repair of engine, brakes, and all car parts"
+      },
+      "tires": {
+        "title": "Tires & Wheels",
+        "description": "Tire change, storage and sale of quality tires"
+      },
+      "electrical": {
+        "title": "Electrical Service",
+        "description": "Diagnosis and repair of electrical systems"
+      },
+      "ac": {
+        "title": "Air Conditioning",
+        "description": "Service and refilling of air conditioning systems"
+      },
+      "inspection": {
+        "title": "MOT & Inspection",
+        "description": "Preparation for MOT and periodic inspection"
+      }
+    }
+  },
+  "about": {
+    "title": "About Service",
+    "subtitle": "Your reliable partner since 1995",
+    "description": "With over 25 years of experience, we are one of the most trusted car workshops in the area. Our certified mechanics ensure the highest quality in every task.",
+    "experience": "25+ years experience",
+    "customers": "5000+ satisfied customers",
+    "quality": "Original parts only",
+    "warranty": "12 months warranty"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Trust built on quality and service"
+  },
+  "cta": {
+    "title": "Ready to book your next service?",
+    "subtitle": "Book online today and get 10% discount",
+    "button": "Book now"
+  },
+  "footer": {
+    "about": "About Us",
+    "aboutText": "Service has been providing first-class car service since 1995. We are dedicated to giving you the best service.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Information",
+    "address": "Address",
+    "addressText": "411 R/A, Agrabad, Chattogram",
+    "openingHours": "Opening Hours",
+    "mondayFriday": "Monday - Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "booking": {
+    "title": "Book Appointment Online",
+    "subtitle": "Fill out the form and get 10% discount on your service",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "carBrand": "Car Brand",
+      "carModel": "Car Model",
+      "service": "Select Service",
+      "date": "Preferred Date",
+      "message": "Message (optional)",
+      "submit": "Send Booking",
+      "success": "Your booking has been received! We will contact you soon.",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you",
+    "getInTouch": "Get In Touch",
+    "description": "Have questions? Contact us today and let us help you with your car.",
+    "visitUs": "Visit Us",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Your message has been sent!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "aboutPage": {
+    "title": "About Service",
+    "subtitle": "Your reliable car partner since 1995",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To deliver the highest quality in car service with a focus on customer satisfaction, reliability and expertise."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality",
+      "qualityDesc": "We never compromise on quality",
+      "trust": "Trust",
+      "trustDesc": "Honesty and transparency in everything we do",
+      "expertise": "Expertise",
+      "expertiseDesc": "Certified mechanics with years of experience",
+      "service": "Service",
+      "serviceDesc": "Customer satisfaction is our priority"
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Our company was established in 1995 with a commitment to providing reliable automotive services. Over the years, we have built a reputation for excellence in car maintenance and repair. Our skilled technicians use modern equipment and techniques to deliver top-quality results."
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "description": "Our experienced team is dedicated to delivering exceptional service"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "Sorry, the page you are looking for does not exist.",
+    "button": "Back to home"
+  }
+}
